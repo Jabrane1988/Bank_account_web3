@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/jabrane/Smart Contract$/Joint_Bank_Account/contracts/BankAccount.sol": {
+      "lastModificationDate": 1688639437174,
+      "contentHash": "f0845365820db8a2527b84dea59ac2a5",
+      "sourceName": "contracts/BankAccount.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "BankAccount"
+      ]
+    }
+  }
+}
